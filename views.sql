@@ -111,3 +111,5 @@ CREATE VIEW range_in_order_waiting_students AS
     ORDER BY wl.course_code, wl.created_date;
 
 SELECT * FROM range_in_order_waiting_students;
+
+
